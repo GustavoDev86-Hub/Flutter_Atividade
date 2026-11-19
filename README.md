@@ -1,3 +1,5 @@
 # busca_cep
 
-A new Flutter project.
+Um projeto Flutter para a disciplina de:
+PROGRAMAÇÃO PARA DISPOSITIVO MOVEIS
+
